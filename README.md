@@ -8,7 +8,7 @@ I'm James, a Data Engineer with a background in leading creative projects and a 
 
 Experienced in Jira and Agile methodologies, I tackle complex challenges with a structured, collaborative mindset. I’m eager to bring together my creative and technical expertise in a data-focused role. Additionally, I hold PRINCE2 Foundation and ACCA Diploma certifications, underpinning my commercially aware and process-driven approach to delivering projects.
 
-🔧 Tech Stack & Tools
+Tech Stack & Tools
 
 - Languages: Python, SQL, Shell
 - Cloud: AWS (S3, RDS, Lambda, Secrets Manager), Google Cloud (BigQuery, Looker)
@@ -18,7 +18,7 @@ Experienced in Jira and Agile methodologies, I tackle complex challenges with a 
 - Automation: cron, shell scripting, logging
 - AI: Planned integration of predictive modeling using Python (scikit-learn / transformers)
 
-📂 Featured Projects
+Featured Projects
 1. Metadata Pipeline from Google Drive to AWS & BigQuery
 
 - Automates ingestion, transformation, and storage of structured music metadata.
