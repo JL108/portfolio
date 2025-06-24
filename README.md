@@ -1,4 +1,4 @@
-# portfolio
+# My project portfolio
 
 James Lippmann – Data & Analytics Portfolio
 
